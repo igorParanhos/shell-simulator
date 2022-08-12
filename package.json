@@ -1,0 +1,14 @@
+{
+  "name": "shell-simulator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "cmd": "node cmd.js"
+  }
+}
